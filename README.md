@@ -23,4 +23,12 @@ Hii, I'm DIVYA <br>passionate about Java, SQL, and Data Structure &algorithms(cu
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/Divyakdiv/Divyakdiv/tree/master/0007-reverse-integer) |
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Divyakdiv/Divyakdiv/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Divyakdiv/Divyakdiv/tree/master/0344-reverse-string) |
 <!---LeetCode Topics End-->
