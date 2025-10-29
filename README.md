@@ -16,3 +16,11 @@ Hii, I'm DIVYA <br>passionate about Java, SQL, and Data Structure &algorithms(cu
 [![](https://visitcount.itsvg.in/api?id=Divyakdiv&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Math
+|  |
+| ------- |
+| [0007-reverse-integer](https://github.com/Divyakdiv/Divyakdiv/tree/master/0007-reverse-integer) |
+<!---LeetCode Topics End-->
