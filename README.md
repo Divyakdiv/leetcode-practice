@@ -31,4 +31,12 @@ Hii, I'm DIVYA <br>passionate about Java, SQL, and Data Structure &algorithms(cu
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Divyakdiv/Divyakdiv/tree/master/0344-reverse-string) |
+## Array
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Divyakdiv/Divyakdiv/tree/master/0001-two-sum) |
+## Hash Table
+|  |
+| ------- |
+| [0001-two-sum](https://github.com/Divyakdiv/Divyakdiv/tree/master/0001-two-sum) |
 <!---LeetCode Topics End-->
