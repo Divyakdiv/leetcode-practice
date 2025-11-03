@@ -24,6 +24,7 @@ Hii, I'm DIVYA <br>passionate about Java, SQL, and Data Structure &algorithms(cu
 | ------- |
 | [0007-reverse-integer](https://github.com/Divyakdiv/Divyakdiv/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Divyakdiv/Divyakdiv/tree/master/0009-palindrome-number) |
+| [0224-basic-calculator](https://github.com/Divyakdiv/Divyakdiv/tree/master/0224-basic-calculator) |
 | [0507-perfect-number](https://github.com/Divyakdiv/Divyakdiv/tree/master/0507-perfect-number) |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Divyakdiv/Divyakdiv/tree/master/3995-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -33,6 +34,7 @@ Hii, I'm DIVYA <br>passionate about Java, SQL, and Data Structure &algorithms(cu
 ## String
 |  |
 | ------- |
+| [0224-basic-calculator](https://github.com/Divyakdiv/Divyakdiv/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Divyakdiv/Divyakdiv/tree/master/0344-reverse-string) |
 ## Array
 |  |
@@ -46,4 +48,12 @@ Hii, I'm DIVYA <br>passionate about Java, SQL, and Data Structure &algorithms(cu
 |  |
 | ------- |
 | [3995-gcd-of-odd-and-even-sums](https://github.com/Divyakdiv/Divyakdiv/tree/master/3995-gcd-of-odd-and-even-sums) |
+## Stack
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Divyakdiv/Divyakdiv/tree/master/0224-basic-calculator) |
+## Recursion
+|  |
+| ------- |
+| [0224-basic-calculator](https://github.com/Divyakdiv/Divyakdiv/tree/master/0224-basic-calculator) |
 <!---LeetCode Topics End-->
