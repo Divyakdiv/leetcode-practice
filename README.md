@@ -30,10 +30,12 @@ Hii, I'm DIVYA <br>passionate about Java, SQL, and Data Structure &algorithms(cu
 ## Two Pointers
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Divyakdiv/Divyakdiv/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/Divyakdiv/Divyakdiv/tree/master/0344-reverse-string) |
 ## String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/Divyakdiv/Divyakdiv/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/Divyakdiv/Divyakdiv/tree/master/0224-basic-calculator) |
 | [0344-reverse-string](https://github.com/Divyakdiv/Divyakdiv/tree/master/0344-reverse-string) |
 ## Array
