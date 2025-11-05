@@ -1,5 +1,12 @@
-# 💫 About Me:
-Hii, I'm DIVYA <br>passionate about Java, SQL, and Data Structure &algorithms(currently deeping my <br>DSA knowledge).<br>Exploring core areas in Java, Networking, web technologies to strengthen my <br>technical foundation.<br>I use gitHub to documenting my learning journey, daily coding practice, and projects<br>GOAL : To build a strong career as a Technical product Specialist/ Software Engineer<br>with continuous growth.
+### 👋 Hi, I'm Divya!
+
+💻 Passionate about coding and solving real-world problems through technology.  
+🌱 Skilled in **Java (Core & Advanced)**, **SQL**, and **Web Technologies (HTML, CSS, JavaScript)**.  
+🔍 I focus on improving my coding logic through daily practice and building small projects using Java and MySQL.  
+🚀 Exploring opportunities as a **Technical Product Specialist / Java Developer** to apply my technical and analytical skills.  
+✨ Consistency and discipline are my strengths — I believe small progress every day builds big results.
+
+
 
 
 ## 🌐 Socials:
