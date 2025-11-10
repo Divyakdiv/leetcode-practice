@@ -60,4 +60,8 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0344-reverse-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0344-reverse-string) |
+## Database
+|  |
+| ------- |
+| [0176-second-highest-salary](https://github.com/Divyakdiv/leetcode-practice/tree/master/0176-second-highest-salary) |
 <!---LeetCode Topics End-->
