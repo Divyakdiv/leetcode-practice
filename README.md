@@ -49,3 +49,15 @@ I'm consistently solving problems and updating this repository to track my growt
 💼 *LinkedIn:* [Your LinkedIn Profile](your-link-here)  
 🌐 *GitHub:* [Divyakdiv](https://github.com/Divyakdiv)
 💻*leetcode*[Leetcode profile](https://leetcode.com/DIVYA_KARIBASAPPA)
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Two Pointers
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0344-reverse-string) |
+## String
+|  |
+| ------- |
+| [0344-reverse-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0344-reverse-string) |
+<!---LeetCode Topics End-->
