@@ -64,4 +64,12 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0176-second-highest-salary](https://github.com/Divyakdiv/leetcode-practice/tree/master/0176-second-highest-salary) |
+## Math
+|  |
+| ------- |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Divyakdiv/leetcode-practice/tree/master/4051-remove-zeros-in-decimal-representation) |
+## Simulation
+|  |
+| ------- |
+| [4051-remove-zeros-in-decimal-representation](https://github.com/Divyakdiv/leetcode-practice/tree/master/4051-remove-zeros-in-decimal-representation) |
 <!---LeetCode Topics End-->
