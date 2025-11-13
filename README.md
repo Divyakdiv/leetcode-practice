@@ -55,6 +55,7 @@ I'm consistently solving problems and updating this repository to track my growt
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0344-reverse-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0344-reverse-string) |
 ## String
 |  |
@@ -72,4 +73,8 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Divyakdiv/leetcode-practice/tree/master/4051-remove-zeros-in-decimal-representation) |
+## Array
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
