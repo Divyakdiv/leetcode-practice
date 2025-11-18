@@ -70,6 +70,7 @@ I'm consistently solving problems and updating this repository to track my growt
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Divyakdiv/leetcode-practice/tree/master/0066-plus-one) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Divyakdiv/leetcode-practice/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Simulation
 |  |
@@ -80,6 +81,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Divyakdiv/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0066-plus-one](https://github.com/Divyakdiv/leetcode-practice/tree/master/0066-plus-one) |
 ## Stack
 |  |
 | ------- |
