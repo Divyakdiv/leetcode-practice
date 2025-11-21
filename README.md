@@ -65,6 +65,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0020-valid-parentheses](https://github.com/Divyakdiv/leetcode-practice/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Divyakdiv/leetcode-practice/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Divyakdiv/leetcode-practice/tree/master/0067-add-binary) |
 | [0344-reverse-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0344-reverse-string) |
 ## Database
 |  |
@@ -74,10 +75,12 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Divyakdiv/leetcode-practice/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Divyakdiv/leetcode-practice/tree/master/0067-add-binary) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Divyakdiv/leetcode-practice/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Divyakdiv/leetcode-practice/tree/master/0067-add-binary) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Divyakdiv/leetcode-practice/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Array
 |  |
@@ -97,4 +100,8 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0067-add-binary](https://github.com/Divyakdiv/leetcode-practice/tree/master/0067-add-binary) |
 <!---LeetCode Topics End-->
