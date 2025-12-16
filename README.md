@@ -66,6 +66,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/Divyakdiv/leetcode-practice/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/Divyakdiv/leetcode-practice/tree/master/0067-add-binary) |
+| [0205-isomorphic-strings](https://github.com/Divyakdiv/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0344-reverse-string) |
 ## Database
 |  |
@@ -104,4 +105,8 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Divyakdiv/leetcode-practice/tree/master/0067-add-binary) |
+## Hash Table
+|  |
+| ------- |
+| [0205-isomorphic-strings](https://github.com/Divyakdiv/leetcode-practice/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
