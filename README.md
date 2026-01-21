@@ -60,6 +60,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0125-valid-palindrome](https://github.com/Divyakdiv/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Divyakdiv/leetcode-practice/tree/master/0202-happy-number) |
+| [0283-move-zeroes](https://github.com/Divyakdiv/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Divyakdiv/leetcode-practice/tree/master/0443-string-compression) |
@@ -108,6 +109,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0066-plus-one](https://github.com/Divyakdiv/leetcode-practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Divyakdiv/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0283-move-zeroes](https://github.com/Divyakdiv/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## Stack
