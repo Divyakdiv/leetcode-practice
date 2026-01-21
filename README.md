@@ -73,6 +73,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0205-isomorphic-strings](https://github.com/Divyakdiv/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Divyakdiv/leetcode-practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 ## Database
 |  |
 | ------- |
@@ -126,6 +127,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Divyakdiv/leetcode-practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## Dynamic Programming
 |  |
@@ -145,5 +147,10 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/Divyakdiv/leetcode-practice/tree/master/0383-ransom-note) |
+| [0387-first-unique-character-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/2248-intersection-of-multiple-arrays) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
