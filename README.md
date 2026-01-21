@@ -62,6 +62,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0202-happy-number](https://github.com/Divyakdiv/leetcode-practice/tree/master/0202-happy-number) |
 | [0344-reverse-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0443-string-compression](https://github.com/Divyakdiv/leetcode-practice/tree/master/0443-string-compression) |
 ## String
 |  |
 | ------- |
@@ -79,6 +80,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0344-reverse-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Divyakdiv/leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+| [0443-string-compression](https://github.com/Divyakdiv/leetcode-practice/tree/master/0443-string-compression) |
 ## Database
 |  |
 | ------- |
