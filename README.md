@@ -96,6 +96,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Divyakdiv/leetcode-practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Divyakdiv/leetcode-practice/tree/master/0118-pascals-triangle) |
+| [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
 ## Stack
 |  |
 | ------- |
@@ -118,8 +119,13 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0001-two-sum](https://github.com/Divyakdiv/leetcode-practice/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Divyakdiv/leetcode-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Divyakdiv/leetcode-practice/tree/master/0205-isomorphic-strings) |
+| [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Divyakdiv/leetcode-practice/tree/master/0118-pascals-triangle) |
+## Sorting
+|  |
+| ------- |
+| [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
 <!---LeetCode Topics End-->
