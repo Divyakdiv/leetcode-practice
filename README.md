@@ -81,6 +81,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0383-ransom-note](https://github.com/Divyakdiv/leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/Divyakdiv/leetcode-practice/tree/master/0443-string-compression) |
+| [0459-repeated-substring-pattern](https://github.com/Divyakdiv/leetcode-practice/tree/master/0459-repeated-substring-pattern) |
 ## Database
 |  |
 | ------- |
@@ -121,6 +122,7 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/Divyakdiv/leetcode-practice/tree/master/0459-repeated-substring-pattern) |
 ## Bit Manipulation
 |  |
 | ------- |
