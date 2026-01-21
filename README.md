@@ -73,6 +73,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0125-valid-palindrome](https://github.com/Divyakdiv/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0168-excel-sheet-column-title](https://github.com/Divyakdiv/leetcode-practice/tree/master/0168-excel-sheet-column-title) |
 | [0205-isomorphic-strings](https://github.com/Divyakdiv/leetcode-practice/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Divyakdiv/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0344-reverse-string) |
 | [0383-ransom-note](https://github.com/Divyakdiv/leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -127,6 +128,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0202-happy-number](https://github.com/Divyakdiv/leetcode-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Divyakdiv/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Divyakdiv/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0383-ransom-note](https://github.com/Divyakdiv/leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
@@ -139,6 +141,7 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Divyakdiv/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## Binary Search
