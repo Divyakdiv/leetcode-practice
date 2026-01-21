@@ -91,6 +91,7 @@ I'm consistently solving problems and updating this repository to track my growt
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyakdiv/leetcode-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Divyakdiv/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0066-plus-one](https://github.com/Divyakdiv/leetcode-practice/tree/master/0066-plus-one) |
@@ -114,6 +115,7 @@ I'm consistently solving problems and updating this repository to track my growt
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Divyakdiv/leetcode-practice/tree/master/0001-two-sum) |
 | [0202-happy-number](https://github.com/Divyakdiv/leetcode-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Divyakdiv/leetcode-practice/tree/master/0205-isomorphic-strings) |
 ## Dynamic Programming
