@@ -114,6 +114,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Divyakdiv/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Divyakdiv/leetcode-practice/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Divyakdiv/leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## Stack
@@ -162,6 +163,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | ------- |
 | [0035-search-insert-position](https://github.com/Divyakdiv/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0704-binary-search](https://github.com/Divyakdiv/leetcode-practice/tree/master/0704-binary-search) |
 ## Counting
 |  |
 | ------- |
