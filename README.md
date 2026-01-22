@@ -91,6 +91,7 @@ I'm consistently solving problems and updating this repository to track my growt
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Divyakdiv/leetcode-practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Divyakdiv/leetcode-practice/tree/master/0066-plus-one) |
 | [0067-add-binary](https://github.com/Divyakdiv/leetcode-practice/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Divyakdiv/leetcode-practice/tree/master/0168-excel-sheet-column-title) |
@@ -109,6 +110,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Divyakdiv/leetcode-practice/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Divyakdiv/leetcode-practice/tree/master/0035-search-insert-position) |
+| [0048-rotate-image](https://github.com/Divyakdiv/leetcode-practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Divyakdiv/leetcode-practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Divyakdiv/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
@@ -174,4 +176,8 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
+## Matrix
+|  |
+| ------- |
+| [0048-rotate-image](https://github.com/Divyakdiv/leetcode-practice/tree/master/0048-rotate-image) |
 <!---LeetCode Topics End-->
