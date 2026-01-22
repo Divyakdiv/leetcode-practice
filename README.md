@@ -114,6 +114,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Divyakdiv/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Divyakdiv/leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## Stack
 |  |
@@ -154,6 +155,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Divyakdiv/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
+| [0747-largest-number-at-least-twice-of-others](https://github.com/Divyakdiv/leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## Binary Search
 |  |
