@@ -108,6 +108,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0014-longest-common-prefix](https://github.com/Divyakdiv/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Divyakdiv/leetcode-practice/tree/master/0027-remove-element) |
+| [0035-search-insert-position](https://github.com/Divyakdiv/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0066-plus-one](https://github.com/Divyakdiv/leetcode-practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Divyakdiv/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
@@ -157,6 +158,7 @@ I'm consistently solving problems and updating this repository to track my growt
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Divyakdiv/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 ## Counting
 |  |
