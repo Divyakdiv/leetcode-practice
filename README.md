@@ -56,6 +56,7 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Divyakdiv/leetcode-practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/Divyakdiv/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
@@ -106,6 +107,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0001-two-sum](https://github.com/Divyakdiv/leetcode-practice/tree/master/0001-two-sum) |
 | [0014-longest-common-prefix](https://github.com/Divyakdiv/leetcode-practice/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Divyakdiv/leetcode-practice/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Divyakdiv/leetcode-practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Divyakdiv/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
