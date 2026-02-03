@@ -113,6 +113,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0048-rotate-image](https://github.com/Divyakdiv/leetcode-practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Divyakdiv/leetcode-practice/tree/master/0066-plus-one) |
 | [0118-pascals-triangle](https://github.com/Divyakdiv/leetcode-practice/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyakdiv/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Divyakdiv/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -152,6 +153,7 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0118-pascals-triangle](https://github.com/Divyakdiv/leetcode-practice/tree/master/0118-pascals-triangle) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyakdiv/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Sorting
 |  |
 | ------- |
