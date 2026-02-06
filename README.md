@@ -58,6 +58,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Divyakdiv/leetcode-practice/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0088-merge-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Divyakdiv/leetcode-practice/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/Divyakdiv/leetcode-practice/tree/master/0202-happy-number) |
@@ -112,6 +113,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0035-search-insert-position](https://github.com/Divyakdiv/leetcode-practice/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/Divyakdiv/leetcode-practice/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Divyakdiv/leetcode-practice/tree/master/0066-plus-one) |
+| [0088-merge-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Divyakdiv/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyakdiv/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
@@ -157,6 +159,7 @@ I'm consistently solving problems and updating this repository to track my growt
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Divyakdiv/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
