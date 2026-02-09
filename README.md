@@ -66,6 +66,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0344-reverse-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0443-string-compression](https://github.com/Divyakdiv/leetcode-practice/tree/master/0443-string-compression) |
+| [0977-squares-of-a-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 ## String
 |  |
 | ------- |
@@ -122,6 +123,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0704-binary-search](https://github.com/Divyakdiv/leetcode-practice/tree/master/0704-binary-search) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Divyakdiv/leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0977-squares-of-a-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## Stack
 |  |
@@ -166,6 +168,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0242-valid-anagram](https://github.com/Divyakdiv/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/Divyakdiv/leetcode-practice/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0977-squares-of-a-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0977-squares-of-a-sorted-array) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/2248-intersection-of-multiple-arrays) |
 ## Binary Search
 |  |
