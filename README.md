@@ -117,6 +117,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0088-merge-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0088-merge-sorted-array) |
 | [0118-pascals-triangle](https://github.com/Divyakdiv/leetcode-practice/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Divyakdiv/leetcode-practice/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/Divyakdiv/leetcode-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Divyakdiv/leetcode-practice/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -146,6 +147,7 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Divyakdiv/leetcode-practice/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Divyakdiv/leetcode-practice/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/Divyakdiv/leetcode-practice/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Divyakdiv/leetcode-practice/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
@@ -164,6 +166,7 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Divyakdiv/leetcode-practice/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/Divyakdiv/leetcode-practice/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Divyakdiv/leetcode-practice/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Divyakdiv/leetcode-practice/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/0349-intersection-of-two-arrays) |
@@ -179,6 +182,7 @@ I'm consistently solving problems and updating this repository to track my growt
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Divyakdiv/leetcode-practice/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/Divyakdiv/leetcode-practice/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Divyakdiv/leetcode-practice/tree/master/0387-first-unique-character-in-a-string) |
 | [2248-intersection-of-multiple-arrays](https://github.com/Divyakdiv/leetcode-practice/tree/master/2248-intersection-of-multiple-arrays) |
@@ -190,4 +194,8 @@ I'm consistently solving problems and updating this repository to track my growt
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/Divyakdiv/leetcode-practice/tree/master/0048-rotate-image) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Divyakdiv/leetcode-practice/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
