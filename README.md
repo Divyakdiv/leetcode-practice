@@ -100,6 +100,7 @@ I'm consistently solving problems and updating this repository to track my growt
 | [0067-add-binary](https://github.com/Divyakdiv/leetcode-practice/tree/master/0067-add-binary) |
 | [0168-excel-sheet-column-title](https://github.com/Divyakdiv/leetcode-practice/tree/master/0168-excel-sheet-column-title) |
 | [0202-happy-number](https://github.com/Divyakdiv/leetcode-practice/tree/master/0202-happy-number) |
+| [0507-perfect-number](https://github.com/Divyakdiv/leetcode-practice/tree/master/0507-perfect-number) |
 | [4051-remove-zeros-in-decimal-representation](https://github.com/Divyakdiv/leetcode-practice/tree/master/4051-remove-zeros-in-decimal-representation) |
 ## Simulation
 |  |
