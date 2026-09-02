@@ -4,15 +4,13 @@ class Solution {
         if(num<=1){
             return false;
         }
+        int sum = 0;
 
-        int sum=0;
-        for(int i=1; i<=num-1; i++){
+        for(int i=1; i<num; i++){
             if(num%i==0){
-                sum= sum+i;
+                sum += i;
             }
         }
-
-        return num==sum;
-        
+        return sum==num;
     }
 }
